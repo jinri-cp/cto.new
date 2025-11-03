@@ -1,0 +1,36 @@
+# Environment
+.env
+
+# Logs
+logs/
+*.log
+
+# Cache
+cache/
+tmp/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Web server
+public/uploads/
+public/files/
+
+# Composer (if used)
+vendor/
+
+# PHP
+.phpunit.result.cache
+.php_cs.cache
+
+# Temporary files
+*.tmp
+*.temp
